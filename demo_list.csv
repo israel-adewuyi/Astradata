@@ -1,0 +1,182 @@
+contestId,index,name
+2094,A,Trippi Troppi
+2094,B,Bobritto Bandito
+2094,C,Brr Brrr Patapim
+2094,D,Tung Tung Sahur
+2094,E,Boneca Ambalabu
+2094,F,Trulimero Trulicina
+2094,G,Chimpanzini Bananini
+2094,H,La Vaca Saturno Saturnita
+2065,A,Skibidus and Amog'u
+2065,B,Skibidus and Ohio
+2065,C1,Skibidus and Fanum Tax (easy version)
+2065,C2,Skibidus and Fanum Tax (hard version)
+2065,D,Skibidus and Sigma
+2065,E,Skibidus and Rizz
+2065,F,Skibidus and Slay
+2065,G,Skibidus and Capping
+2065,H,Bro Thinks He's Him
+2044,A,Easy Problem
+2044,B,Normal Problem
+2044,C,Hard Problem
+2044,D,Harder Problem
+2044,E,Insane Problem
+2044,F,Easy Demon Problem
+2044,G1,Medium Demon Problem (easy version)
+2044,G2,Medium Demon Problem (hard version)
+2044,H,Hard Demon Problem
+2009,A,Minimize!
+2009,B,osu!mania
+2009,C,The Legend of Freya the Frog
+2009,D,Satyam and Counting
+2009,E,Klee's SUPER DUPER LARGE Array!!!
+2009,F,Firefly's Queries
+2009,G1,Yunli's Subarray Queries (easy version)
+2009,G2,Yunli's Subarray Queries (hard version)
+2009,G3,Yunli's Subarray Queries (extreme version)
+1999,A,A+B Again?
+1999,B,Card Game
+1999,C,Showering
+1999,D,Slavic's Exam
+1999,E,Triple Operations
+1999,F,Expected Median
+1999,G1,Ruler (easy version)
+1999,G2,Ruler (hard version)
+1985,A,Creating Words
+1985,B,Maximum Multiple Sum
+1985,C,Good Prefixes
+1985,D,Manhattan Circle
+1985,E,Secret Box
+1985,F,Final Boss
+1985,G,D-Function
+1985,H1,Maximize the Largest Component (Easy Version)
+1985,H2,Maximize the Largest Component (Hard Version)
+1971,A,My First Sorting Problem
+1971,B,Different String
+1971,C,Clock and Strings
+1971,D,Binary Cut
+1971,E,Find the Car
+1971,F,Circle Perimeter
+1971,G,XOUR
+1971,H,±1
+1950,A,"Stair, Peak, or Neither?"
+1950,B,Upscaling
+1950,C,Clock Conversion
+1950,D,Product of Binary Decimals
+1950,E,Nearly Shortest Repeating Substring
+1950,F,"0, 1, 2, Tree!"
+1950,G,Shuffling Songs
+1926,A,Vlad and the Best of Five
+1926,B,Vlad and Shapes
+1926,C,Vlad and a Sum of Sum of Digits
+1926,D,Vlad and Division
+1926,E,Vlad and an Odd Ordering
+1926,F,Vlad and Avoiding X
+1926,G,Vlad and Trouble at MIT
+1915,A,Odd One Out
+1915,B,Not Quite Latin Square
+1915,C,Can I Square?
+1915,D,Unnatural Language Processing
+1915,E,Romantic Glasses
+1915,F,Greetings
+1915,G,Bicycles
+1873,A,Short Sort
+1873,B,Good Kid
+1873,C,Target Practice
+1873,D,1D Eraser
+1873,E,Building an Aquarium
+1873,F,Money Trees
+1873,G,ABBC or BACB
+1873,H,Mad City
+1850,A,To My Critics
+1850,B,Ten Words of Wisdom
+1850,C,Word on the Paper
+1850,D,Balanced Round
+1850,E,Cardboard for Pictures
+1850,F,We Were Both Children
+1850,G,The Morning Star
+1850,H,The Third Letter
+1829,A,Love Story
+1829,B,Blank Space
+1829,C,Mr. Perfectly Fine
+1829,D,Gold Rush
+1829,E,The Lakes
+1829,F,Forever Winter
+1829,G,Hits Different
+1829,H,Don't Blame Me
+1807,A,Plus or Minus
+1807,B,Grab the Candies
+1807,C,Find and Replace
+1807,D,Odd Queries
+1807,E,Interview
+1807,F,Bouncy Ball
+1807,G1,Subsequence Addition (Easy Version)
+1807,G2,Subsequence Addition (Hard Version)
+1791,A,Codeforces Checking
+1791,B,Following Directions
+1791,C,Prepend and Append
+1791,D,Distinct Split
+1791,E,Negatives and Positives
+1791,F,Range Update Point Query
+1791,G1,Teleporters (Easy Version)
+1791,G2,Teleporters (Hard Version)
+1760,A,Medium Number
+1760,B,Atilla's Favorite Problem
+1760,C,Advantage
+1760,D,Challenging Valleys
+1760,E,Binary Inversions
+1760,F,Quests
+1760,G,SlavicG's Favorite Problem
+1742,A,Sum
+1742,B,Increasing
+1742,C,Stripes
+1742,D,Coprime
+1742,E,Scuza
+1742,F,Smaller
+1742,G,Orray
+1722,A,Spell Check
+1722,B,Colourblindness
+1722,C,Word Game
+1722,D,Line
+1722,E,Counting Rectangles
+1722,F,L-shapes
+1722,G,Even-Odd XOR
+1703,A,YES or YES?
+1703,B,ICPC Balloons
+1703,C,Cypher
+1703,D,Double Strings
+1703,E,Mirror Grid
+1703,F,Yet Another Problem About Pairs Satisfying an Inequality
+1703,G,"Good Key, Bad Key"
+1692,A,Marathon
+1692,B,All Distinct
+1692,C,Where's the Bishop?
+1692,D,The Clock
+1692,E,Binary Deque
+1692,F,3SUM
+1692,G,2^Sort
+1692,H,Gambling
+1676,A,Lucky?
+1676,B,Equal Candies
+1676,C,Most Similar Words
+1676,D,X-Sum
+1676,E,Eating Queries
+1676,F,Longest Strike
+1676,G,White-Black Balanced Subtrees
+1676,H1,Maximum Crossings (Easy Version)
+1676,H2,Maximum Crossings (Hard Version)
+1669,A,Division?
+1669,B,Triple
+1669,C,Odd/Even Increments
+1669,D,Colorful Stamp
+1669,E,2-Letter Strings
+1669,F,Eating Candies
+1669,G,Fall Down
+1669,H,Maximal AND
+1352,A,Sum of Round Numbers
+1352,B,Same Parity Summands
+1352,C,K-th Not Divisible by n
+1352,D,"Alice, Bob and Candies"
+1352,E,Special Elements
+1352,F,Binary String Reconstruction
+1352,G,Special Permutation
